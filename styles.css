@@ -2,3 +2,9 @@ body{
   background-color:aqua;
   color: #ffffff;
     }
+#myButton{
+  color:#000;
+}
+<button>
+Click Me
+</button>
